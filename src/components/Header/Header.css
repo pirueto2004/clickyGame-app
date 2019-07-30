@@ -3,9 +3,9 @@
     background-image: url("/assets/bg-header2.jpg");
     background-size: cover;
     color: #fff;
-    min-height: 110px;
-    padding: 130px 20px;
-    padding-bottom: 110px;
+    min-height: 50px;
+    padding: 2px 2px;
+    /* padding-bottom: 110px; */
     text-align: center;
     z-index: -2;
     /* opacity: 0.4; */

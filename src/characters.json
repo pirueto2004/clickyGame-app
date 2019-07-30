@@ -1,74 +1,80 @@
 [
     {
       "id": 0,
-      "name": "Arya Stark",
-      "image": "assets/images/arya_stark.jpeg",
+      "name": "Brooke Lark",
+      "image": "assets/images/brooke-lark.jpg",
       "isClicked": false
     },
     {
       "id": 1,
-      "name": "Brienne of Tarth",
-      "image": "assets/images/brienne_of_tarth.jpg",
+      "name": "Brooke Lark",
+      "image": "assets/images/brooke-lark-2.jpg",
       "isClicked": false
     },
     {
       "id": 2,
-      "name": "Bronn",
-      "image": "assets/images/bronn.jpg",
+      "name": "Brooke Lark",
+      "image": "assets/images/brooke-lark-3.jpg",
       "isClicked": false
     },
     {
       "id": 3,
-      "name": "Cersei Lannister",
-      "image": "assets/images/cersei_lannister.jpg",
+      "name": "Brooke Lark",
+      "image": "assets/images/brooke-lark-4.jpg",
       "isClicked": false
     },
     {
       "id": 4,
-      "name": "Daenerys Targaryen",
-      "image": "assets/images/daenerys_targaryen.jpg",
+      "name": "Brooke Lark",
+      "image": "assets/images/brooke-lark-5.jpg",
       "isClicked": false
     },
     {
       "id": 5,
-      "name": "Jamie Lannister",
-      "image": "assets/images/jamie_lannister.jpg",
+      "name": "Bruna Branco",
+      "image": "assets/images/bruna-branco.jpg",
       "isClicked": false
     },
     {
       "id": 6,
-      "name": "Jon Snow",
-      "image": "assets/images/jon_snow.jpeg",
+      "name": "Christine Siracusa",
+      "image": "assets/images/christine-siracusa.jpg",
       "isClicked": false
     },
     {
       "id": 7,
-      "name": "Margaery Tyrell",
-      "image": "assets/images/margaery_tyrell.jpg",
+      "name": "Dan Gold",
+      "image": "assets/images/dan-gold.jpg",
       "isClicked": false
     },
     {
       "id": 8,
-      "name": "Petyr Baelish",
-      "image": "assets/images/petyr_baelish.jpg",
+      "name": "Edgar Castrejon",
+      "image": "assets/images/edgar-castrejon.jpg",
       "isClicked": false
     },
     {
       "id": 9,
-      "name": "Samwell Tarly",
-      "image": "assets/images/samwell_tarly.jpg",
+      "name": "Heather Ford",
+      "image": "assets/images/heather-ford.jpg",
       "isClicked": false
     },
     {
       "id": 10,
-      "name": "Sansa Stark",
-      "image": "assets/images/sansa_stark.jpeg",
+      "name": "Rachel Park",
+      "image": "assets/images/rachel-park.jpg",
       "isClicked": false
     },
     {
       "id": 11,
-      "name": "Tyrion Lannister",
-      "image": "assets/images/tyrion_lannister.jpg",
+      "name": "Brooke Lark",
+      "image": "assets/images/brooke-lark-7.jpg",
+      "isClicked": false
+    },
+    {
+      "id": 12,
+      "name": "Anna Pelzer",
+      "image": "assets/images/anna-pelzer.jpg",
       "isClicked": false
     }
   ]
