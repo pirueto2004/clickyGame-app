@@ -128,8 +128,10 @@ class App extends Component {
           messageClass={this.state.messageClass}
         />
         <Header />
-        <div className="content">
-          {this.handleRenderCharacters()}
+        <div className="container">
+          <div className="content">
+            {this.handleRenderCharacters()}
+          </div>
         </div>
         <Footer />
       </div>

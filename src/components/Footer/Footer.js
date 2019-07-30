@@ -4,8 +4,8 @@ import "./Footer.css";
 const Footer = () => (
 	<footer className="footer">
 		<div className="footer-bottom">
-			Click Game! 
-			<img alt="react" src="assets/images/react.svg"/>
+			Clicky Game App 
+			<img alt="react" className="ml-2 mb-1" src="assets/react.svg"/>
 		</div>
 	</footer>
 

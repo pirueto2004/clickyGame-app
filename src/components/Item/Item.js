@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Item.css";
 
+
 const Item = ({name, image, onClick}) =>
 			<img 
 				className="click-item"
@@ -12,3 +13,4 @@ const Item = ({name, image, onClick}) =>
 
 
 export default Item;
+
